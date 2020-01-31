@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mybackground01"
+    tools:context="com.oays.fa.InList.HomeActivity">
+
+
+    <View
+        android:id="@+id/divider3"
+        android:layout_width="409dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="272dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="431dp"
+        android:layout_height="375dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/divider3"
+        app:layout_constraintVertical_bias="0.002">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="267dp"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/lets_start"
+            android:textColor="@color/white"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="86dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="59dp"
+                android:background="@null"
+                app:srcCompat="@drawable/ic_tasks_24dp" />
+
+            <Button
+                android:id="@+id/gotoListsBtn"
+                android:layout_width="139dp"
+                android:layout_height="59dp"
+                android:layout_marginBottom="288dp"
+                android:background="@null"
+                android:text="@string/Add_Tasks"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="445dp"
+            android:layout_height="78dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:layout_width="35dp"
+                android:layout_height="45dp"
+                android:background="@null"
+                app:srcCompat="@drawable/ic_language_white_24dp" />
+
+            <Button
+                android:id="@+id/lng_Btn"
+                android:layout_width="193dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:text="@string/Choose_language"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:orientation="horizontal"
+            tools:layout_editor_absoluteX="-16dp"
+            tools:layout_editor_absoluteY="361dp">
+
+            <ImageButton
+                android:layout_width="35dp"
+                android:layout_height="45dp"
+                android:background="@null"
+                app:srcCompat="@drawable/ic_exit_log_out_24dp" />
+
+
+            <Button
+                android:id="@+id/LogOut_btn"
+                android:layout_width="144dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:text="@string/Log_out"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

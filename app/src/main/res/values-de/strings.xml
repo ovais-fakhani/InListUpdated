@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locale">de</string>
+    <string name="item_name">Element Name</string>
+    <string name="list_title">Listennamen</string>
+    <string name="delete_list_forever_warning">Dadurch werden die Liste und alle darin enthaltenen Elemente gelöscht. Möchten Sie diese Liste wirklich löschen? (Dies kann nicht rückgängig gemacht werden)</string>
+    <string name="list_default_name">Meine Liste</string>
+    <string name="cancel">Stornieren</string>
+    <string name="validate">Bestätigen</string>
+    <string name="warning">Warnung</string>
+    <string name="clear_list">Einfach Liste löschen</string>
+    <string name="expand_item">Element erweitern</string>
+    <string name="delete_list">Liste löschen</string>
+    <string name="edit_list">Liste bearbeiten</string>
+    <string name="add_list">Liste hinzufügen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="clear_comment">Kommentar löschen</string>
+    <string name="add_comment">einen Kommentar hinzufügen</string>
+    <string name="change_list_location">Listenablageordner ändern</string>
+    <string name="app_private_storage">App privaten Speicher</string>
+    <string name="choose_folder">Wähle einen Ordner …</string>
+    <string name="more_options">Mehr Optionen</string>
+    <string name="import_from_file">Importieren</string>
+    <string name="warning_new_file">⚠ Für diese Liste wurde eine neue Datei erstellt. Möglicherweise möchten Sie die vorherige manuell löschen.</string>
+    <string name="list_created_with_one1ist">Liste erstellt .</string>
+    <string name="settings">die Einstellungen</string>
+    <string name="list_added">Die Liste %s wurde Ihren Listen hinzugefügt!</string>
+    <string name="list_copied">Die Liste %s wurde in Ihre Listen kopiert!</string>
+    <string name="list_already_in_your_lists">Diese Liste befindet sich bereits in Ihren Listen.</string>
+    <string name="error_opening_file">Fehler beim Öffnen der Listendatei.</string>
+    <string name="error_opening_filepath">Fehler beim Abrufen Ihrer Liste von %s. Stattdessen wird eine zwischengespeicherte angezeigt.</string>
+    <string name="error_saving_to_path">Fehler beim Speichern Ihrer Liste in %s</string>
+    <string name="file_deleted">Datei gelöscht.</string>
+    <string name="error_deleting_list_file">Fehler beim Löschen der Listendatei.</string>
+    <string name="also_delete_file">Löschen Sie auch die Datei im Dateisystem</string>
+    <string name="show_menu">Zeige das Menü</string>
+    <string name="storage">Speicherung</string>
+    <string name="about">Über</string>
+    <string name="app_version">App Version</string>
+    <string name="default_storage_folder">Standardspeicherordner</string>
+    <string name="help">Hilfe</string>
+    <string name="changeFolderHelp">Gleichzeitige Änderungen von Dateien werden in 1List nicht richtig behandelt. Neuer Inhalt überschreibt die Datei. Stellen Sie sicher, dass Sie Ihre Liste aktualisieren, bevor Sie sie bearbeiten, wenn Sie eine freigegebene Datei verwenden. (Ziehen Sie die Liste nach unten, um sie zu aktualisieren.)</string>
+    <string name="not_a_1list_file">Die ausgewählte Datei ist keine INLIST-Datei.</string>
+    <string name="ok_with_tick">✓ OK</string>
+    <string name="storage_chooser_select_label">Wählen</string>
+    <string name="storage_chooser_create_label">Erstellen</string>
+    <string name="storage_chooser_new_folder_label">Neuer Ordner</string>
+    <string name="storage_chooser_cancel_label">Stornieren</string>
+    <string name="storage_chooser_overview_heading">Speichergeräte</string>
+    <string name="storage_chooser_internal_storage_text">Interne Speicher</string>
+    <string name="storage_chooser_free_space_text">%s frei</string>
+    <string name="storage_chooser_folder_created_toast_text">Ordner erstellt</string>
+    <string name="storage_chooser_folder_error_toast_text">Beim Erstellen des Ordners ist ein Fehler aufgetreten. Versuch es noch einmal.</string>
+    <string name="storage_chooser_text_field_hint_text">Ordnernamen</string>
+    <string name="storage_chooser_text_field_error_text">Name des leeren Ordners</string>
+    <string name="tuto">Tutorial</string>
+    <string name="email">Email</string>
+    <string name="password">Passwort</string>
+    <string name="Log_in">Einloggen</string>
+    <string name="sign_up">Anmelden</string>
+    <string name="need_account">Haben sie kein Account ?</string>
+    <string name="have_account">Haben Sie schon ein Account?</string>
+    <string name="Add_Tasks">Aufgaben hinzufügen</string>
+    <string name="Log_out">Ausloggen</string>
+    <string name="Choose_language">Sprache wählen</string>
+    <string name="lets_start">Lass uns anfangen !</string>
+    <string name="continue_button">Weiter</string>
+    <string name="please_enter_Email">Bitte geben Sie Ihre E-Mail-Adresse ein</string>
+    <string name="please_enter_password">Bitte Passwort eingeben</string>
+    <string name="Login_failed">Anmeldung fehlgeschlagen.</string>
+    <string name="Sign_up_failed">Anmeldung fehlgeschlagen, später erneut versuchen!</string>
+
+
+
+
+    <string name="click_to_add_list"> Klicken Sie oben rechts auf +, um eine Liste hinzuzufügen </string>
+    <string name="switch_lists">Wechseln Sie die Listen, indem Sie darauf klicken </string>
+    <string name="show_lists_option">Klicken Sie lange auf eine Liste, um sie zu verschieben oder ihre Optionen anzuzeigen (Bearbeiten / Löschen))</string>
+    <string name="add_an_item">Fügen Sie der ausgewählten Liste ein Element mit dem oberen Textfeld "Hinzufügen" hinzu</string>
+    <string name="swipe_to_delete"> Wischen Sie ein Element nach links, um es zu löschen</string>
+    <string name="swipe_to_edit">Wischen Sie ein Element nach rechts, um es zu bearbeiten</string>
+    <string name="mark_as_done">Markiere den Gegenstand als erledigt, indem du ihn anklickst und als nicht erledigt machst, indem du ihn erneut anklickst! </string>
+    <string name="quickly_add_a_comment">💡 Fügen Sie schnell einen Kommentar hinzu, indem Sie auf die Schaltfläche "⌄" unter dem Bearbeitungsfeld "Hinzufügen" klicken, wenn Sie mit der Eingabe beginnen!</string>
+    <string name="show_an_item_comments">Klicken Sie auf die Schaltfläche "⌄" am Ende der Zeile, um die Kommentare eines Elements anzuzeigen ---> </string>
+
+    <string name="enjoy">Viel Spaß mit der App! 😃 100% KOSTENLOS / 0 Werbung!</string>
+    <string name="external_folder_title">Speichern Sie Ihre Listen in einem externen Ordner</string>
+    <string name="external_folder_content">Klicken Sie im Listeneditionsfenster auf die Schaltfläche "Weitere Optionen".</string>
+    <string name="import_title">Externe Listen importieren</string>
+    <string name="import_content">Klicken Sie im Fenster zur Listenerstellung auf die Schaltfläche "Weitere Optionen".</string>
+    <string name="pull_title">Ziehen zum Aktualisieren </string>
+    <string name="pull_content">Ziehen Sie den Inhalt Ihrer Liste nach unten, um ihn zu aktualisieren, falls die Datei von einer anderen Person aktualisiert wurde.</string>
+    <string name="settings_title">Einstellungsfenster</string>
+    <string name="settings_content">Klicken Sie oben auf dem Bildschirm auf die Schaltfläche "⌄", um auf die Einstellungen zuzugreifen.</string>
+    <string name="share_title">Teilen Sie Ihre Liste mit der Title</string>
+    <string name="share_content">Klicken Sie auf das Freigabesymbol, um Ihre Liste als Text für eine andere Person freizugeben.</string>
+    <string name="see_again_in_settings">Sie können diesen Hinweis auf dem Einstellungsbildschirm erneut anzeigen.</string>
+
+</resources>

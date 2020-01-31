@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="locale">ar</string>
+    <string name="item_name">اسم العنصر </string>
+    <string name="list_title">اسم القائمة</string>
+    <string name="delete_list_forever_warning">سيؤدي هذا إلى حذف القائمة وجميع العناصر التي تحتوي عليها. هل أنت متأكد أنك تريد حذف هذه القائمة؟ (لا يمكن التراجع عن هذا)</string>
+    <string name="list_default_name">قائمتي</string>
+    <string name="cancel">إلغاء</string>
+    <string name="validate">التحقق من صحة</string>
+    <string name="warning">تحذير</string>
+    <string name="clear_list">حذف القائمة</string>
+    <string name="expand_item">توسيع العنصر</string>
+    <string name="delete_list">حذف القائمة</string>
+    <string name="edit_list">تعديل القائمة </string>
+    <string name="add_list">إضافة القائمة</string>
+    <string name="add">إضافة</string>
+    <string name="clear_comment">حذف الوصف</string>
+    <string name="add_comment">إضافة وصف</string>
+    <string name="change_list_location">تغيير مجلد تخزين القائمة</string>
+    <string name="app_private_storage">تخزين خاص بالتطبيق</string>
+    <string name="choose_folder">اختيار مجلد..</string>
+    <string name="more_options">المزيد من الخيارات</string>
+    <string name="import_from_file">استيراد</string>
+    <string name="warning_new_file">⚠ تم إنشاء ملف جديد لهذه القائمة ، قد ترغب في حذف الملف السابق يدويًا.</string>
+    <string name="list_created_with_one1ist">تم إنشاء القائمة.</string>
+    <string name="settings">إعدادات</string>
+    <string name="list_added">تمت إضافة القائمة ٪s إلى قوائمك!</string>
+    <string name="list_copied">تم نسخ القائمة ٪s في قوائمك!</string>
+    <string name="list_already_in_your_lists">هذه القائمة موجودة بالفعل ضمن قوائمك</string>
+    <string name="error_opening_file">حدث خطأ أثناء فتح مجلد القائمة</string>
+    <string name="error_opening_filepath">خطأ أثناء الحصول على قائمتك من ٪s . عرض نسخة مخبأة واحدة بدلاً من ذلك.</string>
+    <string name="error_saving_to_path"> %s خطأ أثناء حفظ قائمتك إلى</string>
+    <string name="file_deleted">تم حذف الملف.</string>
+    <string name="error_deleting_list_file">حدث خطأ أثناء حذف الملف.</string>
+    <string name="also_delete_file">أيضا حذف الملف على نظام الملفات</string>
+    <string name="show_menu">إظهار القائمة</string>
+    <string name="storage">تخزين</string>
+    <string name="about">حول</string>
+    <string name="app_version">نسخة التطبيق</string>
+    <string name="default_storage_folder">مجلد التخزين الافتراضي</string>
+    <string name="help">مساعدة</string>
+    <string name="changeFolderHelp">لا تتم معالجة التعديلات المتزامنة للملفات بشكل صحيح في قائمة واحدة. سيتم اسبدال الملف بالمحتوى الجديد . تأكد من تحديث قائمتك قبل تحريرها إذا كنت تستخدم ملفًا مشتركًا. (اسحب القائمة لأسفل لتحديثها)</string>
+    <string name="not_a_1list_file">الملف المحدد ليس ملف .inlist.</string>
+    <string name="ok_with_tick">✓ok</string>
+    <string name="storage_chooser_select_label">اختيار</string>
+    <string name="storage_chooser_create_label">إانشاء</string>
+    <string name="storage_chooser_new_folder_label">مجلد جديد</string>
+    <string name="storage_chooser_cancel_label">إلغاء</string>
+    <string name="storage_chooser_overview_heading">أجهزة التخزين</string>
+    <string name="storage_chooser_internal_storage_text">تخزين داخلي</string>
+    <string name="storage_chooser_free_space_text">%s فارغ</string>
+    <string name="storage_chooser_folder_created_toast_text">تم إنشاء الملف</string>
+    <string name="storage_chooser_folder_error_toast_text">حدث خطأ اثناء إنشاء المجلد. حاول مجددا</string>
+    <string name="storage_chooser_text_field_hint_text">اسم المجلد</string>
+    <string name="storage_chooser_text_field_error_text">اسم المجلد الفارغ</string>
+    <string name="tuto">كيفية الاستخدام </string>
+    <string name="email">الايميل </string>
+    <string name="password">كلمة السر</string>
+    <string name="Log_in">تسجيل الدخول</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="need_account">ليس لديك حساب؟</string>
+    <string name="have_account">لديك حساب بالفعل !</string>
+    <string name="Add_Tasks">إضافة مهام</string>
+    <string name="Log_out">تسجيل الخروج</string>
+    <string name="Choose_language">تغيير اللغة </string>
+    <string name="lets_start">هيا بنا نبدأ !</string>
+    <string name="please_enter_Email">الرجاء إضافة ايميل المستخدم</string>
+    <string name="please_enter_password">الرجاء إضافة كلمة السر</string>
+    <string name="Login_failed">فشل تسجيل الدخول.</string>
+    <string name="Sign_up_failed"> فشل إنشاء الحساب, حاول مجددا ! </string>
+
+    <string name="click_to_add_list"> انقر فوق أعلى اليمين + لإضافة قائمة </string>
+    <string name="switch_lists">تبديل القوائم من خلال النقر عليها </string>
+    <string name="show_lists_option">انقر طويلاً على القائمة لنقلها أو إظهار خياراتها (تحرير / حذف)</string>
+    <string name="add_an_item">إضافة عنصر إلى القائمة المحددة مع مربع النص "إضافة" العلوي</string>
+    <string name="swipe_to_delete"> اسحب العنصر يسارًا لحذفه </string>
+    <string name="swipe_to_edit">اسحب العنصر يمينًا لتعديله</string>
+    <string name="mark_as_done">ضع علامة على العنصر على أنه تم ببساطة عن طريق النقر فوقه وكما يمكنك التراجع عبر النقر عليه مرة أخرى! </string>
+    <string name="quickly_add_a_comment"> أضف تعليقًا بسرعة عن طريق النقر فوق الزر "⌄" الظاهر أسفل مربع التحرير "إضافة" عند بدء الكتابة!</string>
+    <string name="show_an_item_comments">أظهر تعليقات العنصر بالنقر على زر "⌄" في نهاية السطر ---> </string>
+
+
+    <string name="enjoy"> استمتع بالتطبيق! 😃 100 ٪ مجانا / 0 الإعلانات! </string>
+    <string name="external_folder_title">حفظ القوائم الخاصة بك في مجلد خارجي</string>
+    <string name="external_folder_content">من نافذة تعديل القائمة ، أسفل زر "مزيد من الخيارات".</string>
+    <string name="import_title">استيراد قوائم خارجية</string>
+    <string name="import_content">من نافذة إنشاء القائمة ، تحت زر "مزيد من الخيارات"</string>
+    <string name="pull_title">اسحب للتحديث</string>
+    <string name="pull_content">اسحب محتوى قائمتك لأسفل لتحديثه في حالة تحديث الملف من قبل شخص آخر في مكان آخر.</string>
+    <string name="settings_title">شاشة الإعدادات</string>
+    <string name="settings_content">انقر فوق الزر "⌄" أعلى الشاشة للوصول إلى الإعدادات.</string>
+    <string name="share_title">شارك قائمتك</string>
+    <string name="share_content">انقر على أيقونة المشاركة لمشاركة قائمتك كنص مع شخص آخر.</string>
+    <string name="see_again_in_settings">يمكنك رؤية هذه الملاحظة مرة أخرى من شاشة الإعدادات.</string>
+    <string name="continue_button">متابعة</string>
+</resources>

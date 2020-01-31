@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.oays.fa.InList">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/logo_5"
+        android:label="InList"
+        android:roundIcon="@mipmap/logo_5_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
+
+        <activity android:name=".login.RegisterActivity" />
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".HomeActivity"/>
+        <activity android:name=".login.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="file" />
+                <data android:scheme="content" />
+                <data android:mimeType="*/*" />
+                <data android:host="*" />
+                <data android:pathPattern=".*\\.InList" />
+                <data android:pathPattern=".*\\..*\\.InList" />
+                <data android:pathPattern=".*\\..*\\..*\\.InList" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\.InList" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.InList" />
+                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.InList" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

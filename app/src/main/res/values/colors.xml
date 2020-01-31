@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color">#17C7C0</color>
+
+    <color name="black">@android:color/black</color>
+    <color name="white">@android:color/white</color>
+    <color name="darkred">@android:color/holo_red_dark</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="material_gray_100">#CFD8DC</color>
+
+    <color name="colorPrimary">@color/app_color</color>
+    <color name="colorPrimaryDark">#1B6362</color>
+    <color name="colorPrimaryLight">#2FE4E9</color>
+    <color name="colorAccent">#757575</color>
+    <color name="colorAccentDark">#494949</color>
+    <color name="colorAccentLight">#a4a4a4</color>
+    <color name="purple">#E89B0072</color>
+
+</resources>
